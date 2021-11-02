@@ -37,7 +37,7 @@ Event - Event
 Medal - Gold, Silver, Bronze, or NA
 
 
-# Let get started on the Data Analysis(EDA)
+# Let get started on the Data Analysis
 1. which country is performing well?
 2. Which county has most gold medal
 3. medal tally ?
