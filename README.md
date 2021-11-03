@@ -42,3 +42,7 @@ Medal - Gold, Silver, Bronze, or NA
 2. Which county has most gold medal
 3. medal tally ?
 4. Which athlet is good in which game?
+5. men vs women paticipation?
+
+# dificulties in data anaysis
+in starting Germany was east Germany and West Germany and Rusia was soviath Union.
