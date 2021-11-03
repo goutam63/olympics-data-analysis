@@ -1,14 +1,14 @@
 # olympics-data-analysis
 
- # Introduction:
+ ## Introduction:
 
 Hello there, thanks for review my notebook! So today we are going to analyse the Olympics data analysis. 
 In here we are going to use a olympics data that is 120 years of dataset.
 
-# Data Retrival 
+## Data Retrival 
 First before any EDA to be done we must first understand how to get the data we need. Normally we can go to kaggle.com to start getting our dataset.
 
-# Take note
+## Take note
 I am using the only summer olympics dataset
 
 # Business understanding:
@@ -16,7 +16,7 @@ I am using the only summer olympics dataset
 In any project we must understand what exactly we want to found out in this project?
 Do this analysis help us to achieve business goal?
 
-# Data Understanding
+## Data Understanding
 
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 
@@ -37,12 +37,12 @@ Event - Event
 Medal - Gold, Silver, Bronze, or NA
 
 
-# Let get started on the Data Analysis
+## Let get started on the Data Analysis
 1. which country is performing well?
 2. Which county has most gold medal
 3. medal tally ?
 4. Which athlet is good in which game?
 5. men vs women paticipation?
 
-# dificulties in data anaysis
+## dificulties in data anaysis
 in starting Germany was east Germany and West Germany and Rusia was soviath Union.
