@@ -43,6 +43,8 @@ Medal - Gold, Silver, Bronze, or NA
 3. medal tally ?
 4. Which athlet is good in which game?
 5. men vs women paticipation?
+6. which is the country olympics was held
+7. which years olympics was runned
 
 ## dificulties in data anaysis
 in starting Germany was east Germany and West Germany and Rusia was soviath Union.
